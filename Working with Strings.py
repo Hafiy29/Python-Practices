@@ -1,0 +1,12 @@
+phrase = "Code Academy"
+print(phrase)
+print(phrase.upper())
+print(phrase.lower())
+print(phrase.isupper())
+print(phrase.islower())
+print(len(phrase))
+print(phrase + " is cool")
+print(phrase.upper().isupper())
+print(phrase[5])
+print(phrase.index("A"))
+print(phrase.replace("Code", "Coding"))
